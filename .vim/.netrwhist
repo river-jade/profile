@@ -1,8 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
-let g:netrw_dirhist_1='/Users/michaell/src.local/tzar/example-projects/example-jython-calling-R'
-let g:netrw_dirhist_2='/Users/michaell/Downloads/elicia@redpeppergallery.com.au Secure Email Setup.app'
-let g:netrw_dirhist_3='/Users/michaell/Downloads/elicia@redpeppergallery.com.au Secure Email Setup.app/Contents'
-let g:netrw_dirhist_4='/Users/michaell/Downloads/elicia@redpeppergallery.com.au Secure Email Setup.app/Contents/config'
-let g:netrw_dirhist_5='/Users/michaell/Downloads/elicia@redpeppergallery.com.au Secure Email Setup.app/Contents/Resources/Scripts'
-let g:netrw_dirhist_6='/Users/michaell/Downloads/elicia@redpeppergallery.com.au Secure Email Setup.app/Contents/Resources/description.rtfd'
